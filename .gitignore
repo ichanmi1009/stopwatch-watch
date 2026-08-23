@@ -1,0 +1,91 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor swap, backup, and workspace files
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Xilinx Vivado generated directories
+.Xil/
+.vivado/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+xsim.dir/
+
+# Vivado / XSIM logs, journals, and telemetry
+vivado*.jou
+vivado*.log
+vivado*.pb
+vivado*.str
+xvlog*.jou
+xvlog*.log
+xvlog*.pb
+xelab*.jou
+xelab*.log
+xelab*.pb
+xsim*.jou
+xsim*.log
+xsim*.pb
+webtalk*.jou
+webtalk*.log
+usage_statistics_webtalk.*
+
+# Common simulation waveforms and debug databases
+*.wdb
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+*.ghw
+*.vpd
+*.fsdb
+*.wlf
+
+# VCS / Verdi generated files
+simv
+simv.daidir/
+csrc/
+ucli.key
+verdiLog/
+novas.*
+work/
+transcript
+
+# Build outputs and hardware handoff artifacts
+*.bit
+*.bin
+*.mcs
+*.prm
+*.ltx
+*.dcp
+*.xsa
+*.hdf
+
+# Legacy Xilinx SDK workspace output
+*.sdk/
+
+# Temporary and archive files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.zip
